@@ -854,6 +854,11 @@ span.logo-text span {
   margin-bottom: 4rem;
 }
 
+.skill-name,.skill-percentage {
+  font-size: larger;
+  font-weight: 600;
+}
+
 .skills-wrapper {
   display: flex;
   flex-direction: column;
